@@ -1,0 +1,7 @@
+[My Links] (https://site-mylinks.netlify.app)   
+[Weather Info] (https://creative-fox-jzdqcy-dev-ed.my.site.com/WeatherInfo/s/)  
+[Movie Info] (https://creative-fox-jzdqcy-dev-ed.my.site.com/movies/s/)  
+[Localhost on mobile] (https://leelasairam.github.io/localhost/)   
+[Budget Manager] (https://leelasairam.github.io/budget-plan/)   
+[AI-Speaks] (https://ai-speaks.netlify.app)     
+[Show-Process] (https://show-process.netlify.app/)     
